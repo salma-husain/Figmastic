@@ -1,4 +1,7 @@
 # Figmastic
+
+Application Name: VoltRide
+
 Team Members:
 1.	Salma Husain Al-Rafeii Hassan (The Leader&UI Designer)
 2.	Manar Ahmed Elsayed Mohamed Ramadan(UX Analyst&UI) 

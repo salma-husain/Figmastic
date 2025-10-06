@@ -17,7 +17,7 @@ Team Members:
 3.	Ahmed Muhammed Ahmed Muhammed khedr(UX Researcher&UI) 
 4.	Marwa Alaa Mohamed Atwa(Business&UI) 
 5.	Yossef Mohammed Fawzy Abo Elkmal(Prototype Designer&UI) 
-6.	Ganna Abdelrahman Mokhles Elkhen(Persona & Journey Designer & UI) 
+6.	Ganna Abdelrahman Mokhles Elkhen(UI) 
  - - - - - - - - - - - - - 
 Work Plan:
 1-Research & Analysis
